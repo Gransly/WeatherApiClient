@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab4</string>
+    <string name="city_id">city id</string>
+    <string name="weather_by_id">weather by id</string>
+    <string name="weather_by_name">weather by name</string>
+    <string name="city_name">City name</string>
+</resources>
